@@ -1,6 +1,6 @@
 @ECHO off
 CLS
-TITLE 15 seconds ADB Installer v1.4.3
+TITLE 15 seconds ADB Installer v1.5.0
 COLOR 0b
 ECHO ###############################################################################
 ECHO #                                                                             #
