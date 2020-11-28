@@ -1,0 +1,16 @@
+What is new !!
+Version 1.5.0
+
+- adb - updated 1.0.41 Version 30.0.4-6686687
+- fastboot - updated Version 30.0.4-6686687
+
+(Added New Tools..!!)
+- dmtracedump
+- etc1tool
+- hprof-conv
+- make_f2fs
+- mke2fs
+- sqlite3
+
+Snoop05 - "Snoop05B@gmail.com"  eMail
+Askan28 - "https://t.me/akn_28"  Telegram
