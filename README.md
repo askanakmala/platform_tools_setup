@@ -26,7 +26,7 @@ git clone https://github.com/askanakmala/platform_tools_setup
 Download latest release 
 [HIRE](https://github.com/askanakmala/platform_tools_setup/releases)
 
-Ectrack _.rar_ file
+Ectrack _.zip_ file
 Open containing foder
 run as Administrator __Install.bat__
 
