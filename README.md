@@ -31,7 +31,7 @@ Open containing foder
 run as Administrator __Install.bat__
 
 type ```y``` to continue installation
-type ```n``` to continue abort installation
+type ```n``` to cancel installation
 
 and following instructions
 
