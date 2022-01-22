@@ -19,12 +19,12 @@
 ## Installation instructions
 
 Clone this repository
-```
+```bash
 git clone https://github.com/askanakmala/platform_tools_setup
 ```
 **or**
 Download latest release 
-[HIRE](https://github.com/askanakmala/platform_tools_setup/releases)
+[HERE](https://github.com/askanakmala/platform_tools_setup/releases)
 
 Ectrack _.zip_ file
 Open containing foder
